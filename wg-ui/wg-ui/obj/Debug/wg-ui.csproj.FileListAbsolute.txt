@@ -1,0 +1,8 @@
+C:\Users\genevh\Documents\GitHub\wg-ui\wg-ui\wg-ui\bin\Debug\wg-ui.exe.config
+C:\Users\genevh\Documents\GitHub\wg-ui\wg-ui\wg-ui\bin\Debug\wg-ui.exe
+C:\Users\genevh\Documents\GitHub\wg-ui\wg-ui\wg-ui\bin\Debug\wg-ui.pdb
+C:\Users\genevh\Documents\GitHub\wg-ui\wg-ui\wg-ui\obj\Debug\wg-ui.csprojResolveAssemblyReference.cache
+C:\Users\genevh\Documents\GitHub\wg-ui\wg-ui\wg-ui\obj\Debug\wg_ui.Properties.Resources.resources
+C:\Users\genevh\Documents\GitHub\wg-ui\wg-ui\wg-ui\obj\Debug\wg-ui.csproj.GenerateResource.Cache
+C:\Users\genevh\Documents\GitHub\wg-ui\wg-ui\wg-ui\obj\Debug\wg-ui.exe
+C:\Users\genevh\Documents\GitHub\wg-ui\wg-ui\wg-ui\obj\Debug\wg-ui.pdb
