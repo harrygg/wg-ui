@@ -1,0 +1,6 @@
+C:\Users\genevh\Documents\GitHub\wg-ui\xmltv_time_modify\xmltv_time_modify\bin\Debug\xmltv_time_modify.exe.config
+C:\Users\genevh\Documents\GitHub\wg-ui\xmltv_time_modify\xmltv_time_modify\bin\Debug\xmltv_time_modify.exe
+C:\Users\genevh\Documents\GitHub\wg-ui\xmltv_time_modify\xmltv_time_modify\bin\Debug\xmltv_time_modify.pdb
+C:\Users\genevh\Documents\GitHub\wg-ui\xmltv_time_modify\xmltv_time_modify\obj\Debug\xmltv_time_modify.csprojResolveAssemblyReference.cache
+C:\Users\genevh\Documents\GitHub\wg-ui\xmltv_time_modify\xmltv_time_modify\obj\Debug\xmltv_time_modify.exe
+C:\Users\genevh\Documents\GitHub\wg-ui\xmltv_time_modify\xmltv_time_modify\obj\Debug\xmltv_time_modify.pdb
